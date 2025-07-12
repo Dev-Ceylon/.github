@@ -148,7 +148,7 @@ Git | GitHub | Figma | VS Code | Postman | Jira | Slack
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/CEO-Arjun%20Silva-1E40AF?style=for-the-badge" alt="CEO">
+        <img src="https://img.shields.io/badge/CEO-Ashen%20Wijesinghe-1E40AF?style=for-the-badge" alt="CEO">
         <br><strong>Co-Founder & CEO</strong>
         <br>Strategic Leadership & Business Development
       </td>
