@@ -117,7 +117,7 @@ Git | GitHub | Figma | VS Code | Postman | Jira | Slack
 
 ## 📈 Company Statistics
 
-<div>
+<div align="center">
   <table>
     <tr>
       <td align="center">
