@@ -144,7 +144,7 @@ Git | GitHub | Figma | VS Code | Postman | Jira | Slack
 
 ## 👥 Our Team
 
-<div>
+<div align="center">
   <table>
     <tr>
       <td align="center">
