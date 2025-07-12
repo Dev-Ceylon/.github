@@ -117,7 +117,7 @@ Git | GitHub | Figma | VS Code | Postman | Jira | Slack
 
 ## 📈 Company Statistics
 
-<div align="center">
+<div>
   <table>
     <tr>
       <td align="center">
@@ -144,7 +144,7 @@ Git | GitHub | Figma | VS Code | Postman | Jira | Slack
 
 ## 👥 Our Team
 
-<div align="center">
+<div>
   <table>
     <tr>
       <td align="center">
@@ -201,7 +201,7 @@ Git | GitHub | Figma | VS Code | Postman | Jira | Slack
 
 ## 🚀 Expansion Plans 2025
 
-<div align="center">
+<div>
   
 ### 🌏 **International Market Entry**
 - **Q1 2025:** Southeast Asian markets (Singapore, Malaysia)
@@ -221,7 +221,7 @@ Git | GitHub | Figma | VS Code | Postman | Jira | Slack
 
 ## 📞 Get In Touch
 
-<div align="center">
+<div>
   
 ### 🏢 **Headquarters**
 **Dev Ceylon Pvt Ltd**  
@@ -244,7 +244,7 @@ Sri Lanka 🇱🇰
 
 ## 🤝 Let's Collaborate
 
-<div align="center">
+<div>
   
 ### 🌟 **Ready to Start Your Next Project?**
 
