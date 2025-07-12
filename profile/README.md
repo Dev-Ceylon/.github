@@ -229,7 +229,7 @@ Git | GitHub | Figma | VS Code | Postman | Jira | Slack
 Sri Lanka 🇱🇰
 
 ### 📱 **Contact Information**
-**Phone:** +94 11 234 5678  
+**Phone:** +94 70 764 3359  
 **Email:** info@devceylon.com  
 **Website:** [www.devceylon.com](https://devceylon.com)
 
@@ -267,37 +267,6 @@ Sri Lanka 🇱🇰
 - Project rescue and optimization
 
 </div>
-
----
-
-## 📋 Project Inquiry Template
-
-```markdown
-## Project Inquiry
-
-**Company Name:** [Your Company]
-**Contact Person:** [Your Name]
-**Email:** [Your Email]
-**Phone:** [Your Phone Number]
-
-**Project Type:** 
-- [ ] Web Development
-- [ ] Mobile Application
-- [ ] Software Solution
-- [ ] Digital Transformation
-- [ ] Other: ___________
-
-**Project Timeline:** [Expected Duration]
-**Budget Range:** [Your Budget]
-**Project Description:** 
-[Brief description of your project requirements]
-
-**Technical Requirements:**
-[Any specific technologies or integrations needed]
-
-**Additional Information:**
-[Any other relevant details]
-```
 
 ---
 
