@@ -125,7 +125,7 @@ Git | GitHub | Figma | VS Code | Postman | Jira | Slack
         <p>Projects Completed</p>
       </td>
       <td align="center">
-        <h3>15+</h3>
+        <h3>40+</h3>
         <p>Happy Clients</p>
       </td>
       <td align="center">
