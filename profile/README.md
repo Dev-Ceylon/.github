@@ -154,7 +154,6 @@ Git | GitHub | Figma | VS Code | Postman | Jira | Slack
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/CTO-Adithya%20Liyanaarachchi-0D9488?style=for-the-badge" alt="CTO">
-        <br><strong>Co-Founder & CTO</strong>
         <br><strong>Co-Founder & CEO</strong>
         <br>Technical Architecture & Innovation
       </td>
