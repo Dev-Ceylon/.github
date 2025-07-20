@@ -153,20 +153,21 @@ Git | GitHub | Figma | VS Code | Postman | Jira | Slack
         <br>Strategic Leadership & Business Development
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/CTO-Nisha%20Perera-0D9488?style=for-the-badge" alt="CTO">
-        <br><strong>CTO & Lead Developer</strong>
+        <img src="https://img.shields.io/badge/CTO-Adithya%20Liyanaarachchi-0D9488?style=for-the-badge" alt="CTO">
+        <br><strong>Co-Founder & CTO</strong>
+        <br><strong>Co-Founder & CEO</strong>
         <br>Technical Architecture & Innovation
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Designer-Ravindu%20Jayawardena-F59E0B?style=for-the-badge" alt="Designer">
-        <br><strong>UI/UX Designer</strong>
+        <img src="https://img.shields.io/badge/Designer-Ravindu%20Balasooriya-F59E0B?style=for-the-badge" alt="Designer">
+        <br><strong>Co-Founder & CEO</strong>
         <br>User Experience & Visual Design
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Developer-Kavindi%20Fernando-374151?style=for-the-badge" alt="Developer">
-        <br><strong>Full Stack Developer</strong>
+         <img src="https://img.shields.io/badge/Developer-Thisara%20Devinda-374151?style=for-the-badge" alt="Developer">
+        <br><strong>Co-Founder & CEO</strong>
         <br>Frontend & Backend Development
       </td>
     </tr>
